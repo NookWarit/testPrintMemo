@@ -1,0 +1,6 @@
+framework module MemobirdSDK {
+  umbrella header "MemobirdSDK.h"
+
+  export *
+  module * { export * }
+}
